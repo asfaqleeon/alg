@@ -8,9 +8,9 @@ struct node {
 struct node *start = NULL;
 
 void pop(){
-	struct node *t1=start, *t2=start->next;
+	struct node *t1=start->next;
 	free(start);
-	start = t2;
+	start = t1;
 }
 
 void push(int data){
