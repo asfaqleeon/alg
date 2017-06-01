@@ -1,0 +1,19 @@
+binary-max-heap-array
+bit-ops
+fibonacci-simple
+gcd-lcm
+linked list
+matrix-addition-subtraction
+naive pattern search
+number base conversion
+prime seive
+queue
+random number
+stack
+
+
+------all-------
+fibonacci-simple
+gcd-lcm
+prime-seive
+random number/shuffle
